@@ -1,0 +1,42 @@
+
+ #header{
+     text-align: center;
+     background-color: rgb(157, 158, 158);
+ }
+body{
+    background-color: rgb(247, 205, 114);
+}
+
+#h{
+    color: black;
+    font-size: xx-large;
+}
+#w{
+    color: red;
+    font-size: xx-large;
+}
+#d{
+    color:rgb(240, 159, 10);
+    font-size: xx-large;
+}
+#c{
+    text-align: center;
+    font-style: italic;
+    text-decoration: none;
+}
+#c a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+#r {
+
+    text-align: center;
+    color: black;
+}
+
+
+main img{
+    display: block;
+    margin: auto;  
+}
